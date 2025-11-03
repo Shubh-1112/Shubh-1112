@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **Shubhamdey259@gmail.com** For Collaboration/Project or Anything Else. ✨
 
-- 🔭 **I’m currently :** Pursuing Bachlor Of Computer Application.
+- 🔭 **I’m currently :** Pursuing Bachlor's Of Computer Application.
 - 💬 **Ask me about:** Collaboration, Tech Support, Job & Internship Opportunities.
 - 📫 **How to reach me:** Shubhamdey259@gmail.com
 - 😄 **Pronouns:** Shubh❤️
