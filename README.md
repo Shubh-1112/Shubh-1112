@@ -11,8 +11,8 @@ Email Me 👉 ✉️ **Shubhamdey259@gmail.com** For Collaboration/Project or An
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelifeof._shubh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubh1112/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdey259@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://thelifeofshubh.vercel.app)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdey259@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://thelifeofshubh.vercel.app)
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
